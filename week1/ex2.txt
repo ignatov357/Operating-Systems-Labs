@@ -1,0 +1,37 @@
+    1  git
+    2  git clone https://github.com/ignatov357/Operating-Systems-Labs.git
+    3  ls
+    4  cd ope*
+    5  cd Ope*
+    6  ls
+    7  mkdir week1
+    8  ls
+    9  cd week1
+   10  la
+   11  ls
+   12  alias la
+   13  ls -A
+   14  ls
+   15  cd ..
+   16  ls
+   17  cd week1
+   18  ls
+   19  cd O*
+   20  ls
+   21  cd week1
+   22  ls /usr/bin | grep *gcc* | sort -r
+   23  ls /usr/bin | grep *gcc*
+   24  ls /usr/bin | grep "gcc"
+   25  ls /usr/bin
+   26  ls /usr/bin | grep "%gcc%"
+   27  ls /usr/bin | grep gcc
+   28  ls /usr/bin | grep c
+   29  ls /usr/bin | grep gc
+   30  sudo apt-get update
+   31  sudo apt-get install gcc
+   32  ls /usr/bin | grep gcc
+   33  ls /usr/bin | grep gcc | sort -r
+   34  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   35  ls
+   36  cat *
+   37  history > ex2.txt
